@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="mine">Mines</string>
+    <string name="time">Time</string>
+    <string name="HIGH_SCORE_KEY">HIGH SCORE KEY</string>
+    <string name="LAST_GAME_SCORE_KEY">LAST GAME SCORE KEY</string>
+
+</resources>
